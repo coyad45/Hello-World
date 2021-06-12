@@ -35,7 +35,7 @@ Algoritmo sin_titulo
 	escribir "los valores de la Matriz A";
 	Para i<-1 Hasta FILAS1 Con Paso 1 Hacer
         Para j<-1 Hasta COLUMNAS1 Con Paso 1 Hacer
-            escribir "[",num1[i,j],"]" sin saltar;
+            escribir "[",num1[i,j],"]"  sin saltar;
         Fin Para
         escribir ""
     Fin Para
