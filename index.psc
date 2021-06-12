@@ -26,7 +26,7 @@ Algoritmo sin_titulo
     Dimension num2[FILAS2, COLUMNAS2];
 	Para i<-1 Hasta FILAS2 Con Paso 1 Hacer
         Para j<-1 Hasta COLUMNAS2 Con Paso 1 Hacer
-            escribir "ingrese los valores de la matriz a para [",i,"][",j,"]";
+            escribir "ingrese los valores de la matriz  a para [",i,"][",j,"]";
 			leer num2[i,j];
         Fin Para
         //Salto de linea
